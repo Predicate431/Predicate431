@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing as of right now.
 - 📫 How to reach me send me personal message through discord.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: c# is my favorit language.
+- ⚡ Fun fact: Python/LUA is my favorit language.
 
 <!---
 Predicate431/Predicate431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
